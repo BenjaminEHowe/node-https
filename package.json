@@ -16,8 +16,5 @@
   "bugs": {
     "url": "https://github.com/BenjaminEHowe/node-https/issues"
   },
-  "homepage": "https://github.com/BenjaminEHowe/node-https#readme",
-  "dependencies": {
-    "express": "^4.17.1"
-  }
+  "homepage": "https://github.com/BenjaminEHowe/node-https#readme"
 }
